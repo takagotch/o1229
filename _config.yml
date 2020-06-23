@@ -1,5 +1,5 @@
-title: Your awesome title
-author: GitHub User
+title: tkvtv
+author: takagotch
 email: your-email@domain.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
@@ -12,7 +12,7 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Adam Denisov
+  name: takagotch
   tagline: Developer. Designer
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
@@ -21,18 +21,18 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    twitter: takagotch
+    github:  takagotch
+    linkedIn: in/takagotch
     rss: rss
-    # dribbble: jekyll
-    # flickr:   jekyll
-    # instagram: jekyll
-    # pinterest: jekyll
-    # youtube: jekyll
-    # facebook: jekyll
-    # soundcloud: jekyll
-    # telegram: jekyll
+    dribbble: takagotch
+    flickr:   takagotch
+    instagram: takagotch
+    pinterest: takagotch
+    youtube: takagotch
+    facebook: takagotch
+    soundcloud: takagotchtakagotch
+    telegram: takagotch
 
     # Mastodon instances
     # mastodon:
@@ -43,8 +43,8 @@ plainwhite:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+ - about.md
 
 # Build settings
 theme: plainwhite
@@ -52,3 +52,4 @@ theme: plainwhite
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
+
